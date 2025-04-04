@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains automated tests written in **Java**, using **Selenium WebDriver** and **TestNG**. The tests are targeted at the [Warehouse Backend Application](https://github.com/your-org/warehouse-backend) and validate key workflows such as login, registration, and warehouse operations.
+This repository contains automated tests written in **Java**, using **Selenium WebDriver** and **TestNG**. The tests are targeted at the [Warehouse Web Application](https://github.com/roxanapaula23/greater-wms.git) and validate key workflows such as login, registration, and warehouse operations.
 
 ---
 
